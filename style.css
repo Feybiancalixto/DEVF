@@ -1,0 +1,38 @@
+html{
+    background-color: rgb(204, 202, 202);
+    color: rgb(0, 0, 0) ;
+    display: flex;
+    }
+h1
+{  
+    background-color: black; 
+    color: rgb(250, 162, 0);
+   font-family: 'Creepster', cursive;
+   margin: 0%;
+   padding: 10px;
+}
+
+h2
+{
+    font-family: 'Creepster', cursive;
+    margin-top: 20PX;
+}
+
+p
+{ 
+     margin-top: 5PX;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin-bottom: 20px;
+ }
+
+#halloween
+{
+    margin-left: 30px;
+
+}
+
+
+    
+
